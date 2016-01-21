@@ -65,4 +65,6 @@
 
 - (void)recompute;
 
+- (void)selectItemAtIndex:(int)index;
+
 @end
